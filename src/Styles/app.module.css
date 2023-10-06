@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    
+}
+
+.directionContainer{
+    font-size: larger;
+}
+
+.dropdown{
+    font-size: larger;
+}
